@@ -23,6 +23,10 @@ code: https://github.com/SirLPS/Face-Hallucination
 note: decompose deblocked face images into facial components and background, use the component landmarks to retrieve adequate HR exemplars in external datasets, perform generic SR on the background, and finally fuse them to complete HR faces. <br>
 code: https://github.com/yangchihyuan/HallucinatingCompressedFaceImages [matlab]
 
+### 6 Wavelet-srnet: A wavelet-based cnn for multi-scale face super resolution
+code: https://github.com/hhb072/WaveletSRNet/
+
+
 ### 6. Attribute augmented convolutional neural network for face hallucination
 note: utilize additional facial attribute information to perform FH with the specified attributes, based on the conditional GAN <br>
 code: https://github.com/steven413d/AACNN [tensorflow]
